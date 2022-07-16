@@ -1,3 +1,6 @@
-baseURL = https://hass-1.github.io/HugoBlog/
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+
+[params]
+name = 'hassan'
