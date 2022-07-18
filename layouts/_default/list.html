@@ -1,3 +1,10 @@
 {{ define "main" }}
+
+
+{{ $image := resources.Get "images/banner.jpg" }}
+
+<img src="{{ ( $image.Fill "1100x300 q100" ).Permalink }}" /> 
+
 {{ .Content }}
+
 {{ end }}

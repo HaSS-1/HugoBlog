@@ -1,0 +1,54 @@
+{
+  "htmlElements": {
+    "tags": [
+      "a",
+      "blockquote",
+      "body",
+      "code",
+      "div",
+      "em",
+      "footer",
+      "h1",
+      "h2",
+      "h3",
+      "head",
+      "hr",
+      "html",
+      "img",
+      "li",
+      "link",
+      "meta",
+      "nav",
+      "ol",
+      "p",
+      "pre",
+      "script",
+      "strong",
+      "table",
+      "tbody",
+      "td",
+      "th",
+      "thead",
+      "title",
+      "tr",
+      "ul"
+    ],
+    "classes": [
+      "highlight",
+      "wrapper"
+    ],
+    "ids": [
+      "ad-lemnos-talibus-quem-non-qualescumque-facies",
+      "anguem-cum-fer-tellus-sed-pretiosior-laetatur",
+      "faciat-annum-innumerasque-tenuitque-quondam-carpathius-feritate",
+      "h3-aligncenter-idheadingthese-are-my-favorite-vacation-spotsh3",
+      "hi-this-is-a-must-have-javascript-cheatsheet-if-you-wanna-learn-quick-and-save-you-time-of-googling",
+      "locum-amorem-est-furibundus-primoque-violenta-si",
+      "map",
+      "pondus-natis",
+      "prisco-remigioque",
+      "proximus-sine-nomen-manus-adest-carina",
+      "welcome-to-my-first-hugo-blog-project"
+    ]
+  }
+}

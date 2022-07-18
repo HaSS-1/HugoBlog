@@ -1,10 +1,10 @@
 ---
-title: About
+title: about
 hide_footer: true
 ---
 I'm learning Hugo 
 
-![surfing](/img/surfer.jpg)
+![surfing](/static/img/surfer.jpg)
 
 [These are my favorite vacation spots](#heading)
 

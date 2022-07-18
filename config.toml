@@ -1,6 +1,18 @@
-baseURL = https://hass-1.github.io/HugoBlog/
+baseURL = 'https=//hass-1.github.io/HugoBlog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+contentDir="content"
+enableGitInfo = true
+enableEmoji = true
+
+[build]
+  writeStats = true
 
 [params]
 name = 'hassan'
+
+
+# Enable local search
+offlineSearch = true
+offlineSearchSummaryLength = 70
+offlineSearchMaxResults = 10
